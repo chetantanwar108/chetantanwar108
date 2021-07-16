@@ -10,7 +10,7 @@ I'm Chetan tanwar a Full Stack Web Developer . I Spend most of time in coding ou
 
 <!-- TODO: Add last video link -->
   
-- 🔭 My Portfolio Link <a href="https://chetan-tanwar-portfolio.netlify.app/"></a>
+- 🔭 My Portfolio Link https://chetan-tanwar-portfolio.netlify.app/
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - All of my projects are available at www.desiprogrammer.com
 - 📫 How to reach me: chetantanwar108@gmail.com.
