@@ -4,7 +4,9 @@ I'm Chetan tanwar a Full Stack Web Developer . I Spend most of time in coding ou
 
 :mailbox: Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge/-@Ipenywis-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/Chetantanwar108) [![Linkedin Badge](https://img.shields.io/badge/-Islem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chetan-tanwar/) [![Mail Badge](https://img.shields.io/badge/-islempenywis-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:chetantanwar108@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@Chetan-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/Chetantanwar108) 
+[![Linkedin Badge](https://img.shields.io/badge/-Chetan-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chetan-tanwar/) 
+[![Mail Badge](https://img.shields.io/badge/-Chetan-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:chetantanwar108@gmail.com)
 
 <!-- TODO: Add last video link -->
   
