@@ -54,5 +54,5 @@ I'm Chetan tanwar a Full Stack Web Developer . I Spend most of time in coding ou
 <br />
 
 #### My Resume/CV & Email:
-- :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
+- :paperclip: [My Resume/CV]()
 - :email: chetantanwar108@gmail.com
