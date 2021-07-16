@@ -15,7 +15,7 @@ I'm Chetan tanwar a Full Stack Web Developer . I Spend most of time in coding ou
 - All of my projects are available at https://chetan-tanwar-portfolio.netlify.app/
 - 📫 How to reach me: chetantanwar108@gmail.com.
 - ⚡ Fun fact: Started as a Failure, I Never knew I could learn this 🙂🙂
-- My contact number 9818745562
+- My contact number 91+ 9818745562
 
 #### Top Technologies
 
