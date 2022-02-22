@@ -1,6 +1,6 @@
 ##           Hi I'm Chetan tanwar <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Chetan tanwar a Full Stack Web Developer . I Spend most of time in coding outstanding projects.
+I'm Chetan tanwar a Front-End Web Developer . I Spend most of time in coding outstanding projects.
 
 :mailbox: Reach me out!
 
